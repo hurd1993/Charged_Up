@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - ShowOnPause
+  - Ladder
+  - Spring
+  - Ladder_Platform
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ladder_Platform
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1096836723
+    locked: 0
+  - name: Ladder_Platforms
+    uniqueID: 1502642899
+    locked: 0
+  - name: Foreground
+    uniqueID: 675758235
+    locked: 0
+  - name: UI
+    uniqueID: 1457553429
+    locked: 0
