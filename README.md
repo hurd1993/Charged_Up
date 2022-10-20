@@ -16,4 +16,14 @@
 Utilize your own magnetic charge to interact with the environment. By changing your electric charge, you can attract and repel yourself off different obstacles to reach new heights are attract key items.
 
 ## Developer Notes
-This game is still a work-in-progress and has several missing features. Game currently has a Sandbox-Demo to test key features.  
+This game is still a work-in-progress and has several missing features. Game currently has a Sandbox-Demo to test key features.
+
+### Access Demo
+> Clone Project to your computer
+>
+> Demo can be found at:
+>>
+>>Charged_Up/Sandbox_Demo/Magnet_Platformer_8.5.exe
+>
+>Enjoy!
+
